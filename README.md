@@ -29,3 +29,4 @@ test message
 
 * https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/
 * https://github.com/apache/kafka/blob/6d1d68617ecd023b787f54aafc24a4232663428d/config/kraft/README.md
+* https://github.com/confluentinc/schema-registry
