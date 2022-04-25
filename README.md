@@ -57,3 +57,4 @@ $ ./gradlew runProcessorAPI --info
 * https://github.com/confluentinc/schema-registry
 * https://github.com/protocolbuffers/protobuf
 * https://kafka.apache.org/documentation/
+* https://docs.confluent.io/platform/current/schema-registry/develop/api.html
