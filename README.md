@@ -60,5 +60,6 @@ $ ./gradlew runProcessorAPI --info
 * https://docs.confluent.io/platform/current/schema-registry/develop/api.html
 * https://docs.ksqldb.io/en/latest/developer-guide/api/
 * https://docs.spring.io/spring-kafka/docs/current/reference/html/
+* https://docs.confluent.io/platform/current/streams/monitoring.html
 * https://javalin.io/
 * https://square.github.io/okhttp/
