@@ -62,5 +62,6 @@ $ ./gradlew runProcessorAPI --info
 * https://docs.spring.io/spring-kafka/docs/current/reference/html/
 * https://docs.confluent.io/platform/current/streams/monitoring.html
 * https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/
+* https://www.michael-noll.com/blog/2018/04/05/of-stream-and-tables-in-kafka-and-stream-processing-part1/
 * https://javalin.io/
 * https://square.github.io/okhttp/
