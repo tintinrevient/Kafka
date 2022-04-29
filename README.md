@@ -69,3 +69,4 @@ $ ./gradlew runProcessorAPI --info
 * https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/
 * https://javalin.io/
 * https://square.github.io/okhttp/
+* https://docs.confluent.io/home/connect/confluent-hub/client.html
