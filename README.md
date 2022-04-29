@@ -66,5 +66,6 @@ $ ./gradlew runProcessorAPI --info
 * https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/streaming-logging-pipeline-of-home-timeline-prediction-system
 * https://yokota.blog/2019/05/28/machine-learning-with-kafka-graphs/
 * https://www.oreilly.com/radar/questioning-the-lambda-architecture/
+* https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/
 * https://javalin.io/
 * https://square.github.io/okhttp/
