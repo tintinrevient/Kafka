@@ -61,5 +61,6 @@ $ ./gradlew runProcessorAPI --info
 * https://docs.ksqldb.io/en/latest/developer-guide/api/
 * https://docs.spring.io/spring-kafka/docs/current/reference/html/
 * https://docs.confluent.io/platform/current/streams/monitoring.html
+* https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/
 * https://javalin.io/
 * https://square.github.io/okhttp/
