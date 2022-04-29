@@ -65,5 +65,6 @@ $ ./gradlew runProcessorAPI --info
 * https://www.michael-noll.com/blog/2018/04/05/of-stream-and-tables-in-kafka-and-stream-processing-part1/
 * https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/streaming-logging-pipeline-of-home-timeline-prediction-system
 * https://yokota.blog/2019/05/28/machine-learning-with-kafka-graphs/
+* https://www.oreilly.com/radar/questioning-the-lambda-architecture/
 * https://javalin.io/
 * https://square.github.io/okhttp/
